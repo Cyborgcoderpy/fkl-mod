@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "girlfriend-mod",
+  "version": "2.1.0",
+  "name": "fkl Mod",
+  "description": "Interactive companion with relationship mechanics, combat, dialogue, block-climbing, door-use, nature interactions, and more.",
+  "authors": ["Becky Tidus"],
+  "contact": { "homepage": "https://fabricmc.net/" },
+  "license": "CC0-1.0",
+  "icon": "assets/girlfriend-mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main":   ["com.beckytidus.girlfriendmod.GirlfriendMod"],
+    "client": ["com.beckytidus.girlfriendmod.GirlfriendModClient"]
+  },
+  "mixins": ["girlfriend-mod.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft":    "~1.21.1",
+    "java":         ">=21",
+    "fabric-api":   "*"
+  }
+}

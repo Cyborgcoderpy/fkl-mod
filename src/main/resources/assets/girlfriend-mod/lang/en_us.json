@@ -1,0 +1,18 @@
+{
+  "item.girlfriend-mod.girlfriend_summoner": "Companion Summoner",
+  "entity.girlfriend-mod.girlfriend": "Companion",
+  "chat.girlfriend-mod.summoned": "has arrived!",
+  "chat.girlfriend-mod.fed": "is happy!",
+  "chat.girlfriend-mod.following": "is following you.",
+  "chat.girlfriend-mod.waiting": "will wait here.",
+  "chat.girlfriend-mod.damaged": "was hurt!",
+  "chat.girlfriend-mod.defeated": "has fallen...",
+  "chat.girlfriend-mod.hug_oneday": "* %s hugs you — she missed you! *",
+  "chat.girlfriend-mod.hug_kiss_twodays": "* %s runs to you and gives you a warm hug and a kiss! *",
+  "chat.girlfriend-mod.retreat_warn": "%s steps back — too many hits!",
+  "chat.girlfriend-mod.retreat_full": "%s is retreating to safety!",
+  "chat.girlfriend-mod.pet_cat": "* %s gently pets the cat... *",
+  "chat.girlfriend-mod.greet_villager": "* %s waves at the villager. *",
+  "chat.girlfriend-mod.hungry_low": "%s is getting hungry...",
+  "chat.girlfriend-mod.hungry_empty": "%s is starving! Please feed her."
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" I ", "IHI", " I "],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "H": {"item": "minecraft:heart_of_the_sea"}
+  },
+  "result": {"id": "girlfriend-mod:boyfriend_summoner", "count": 1}
+}

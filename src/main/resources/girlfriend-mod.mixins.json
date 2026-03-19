@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.beckytidus.girlfriendmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerManagerChatMixin",
+    "BlockBreakMixin",
+    "ServerPlayerInteractionManagerAccessor"
+  ],
+  "client": [
+    "EntityRenderManagerGirlfriendMixin",
+    "InGameHudGirlfriendStatsMixin"
+  ],
+  "injectors": { "defaultRequire": 1 },
+  "overwrites": { "requireAnnotations": true }
+}
